@@ -1,0 +1,167 @@
+.icon-arrow-1 {
+  background-image: url(../../img/sprite.png);
+  background-position: -214px 0px;
+  width: 65px;
+  height: 86px; }
+
+.icon-arrow-2 {
+  background-image: url(../../img/sprite.png);
+  background-position: -70px -112px;
+  width: 48px;
+  height: 64px; }
+
+.icon-arrow-3 {
+  background-image: url(../../img/sprite.png);
+  background-position: 0px -112px;
+  width: 70px;
+  height: 81px; }
+
+.icon-arrow-4 {
+  background-image: url(../../img/sprite.png);
+  background-position: 0px -193px;
+  width: 40px;
+  height: 71px; }
+
+.icon-arrow-left-blue {
+  background-image: url(../../img/sprite.png);
+  background-position: -299px -229px;
+  width: 20px;
+  height: 14px; }
+
+.icon-arrow-right-blue {
+  background-image: url(../../img/sprite.png);
+  background-position: -279px -229px;
+  width: 20px;
+  height: 14px; }
+
+.icon-arrow {
+  background-image: url(../../img/sprite.png);
+  background-position: -299px -182px;
+  width: 17px;
+  height: 20px; }
+
+.icon-chevron-left-blue {
+  background-image: url(../../img/sprite.png);
+  background-position: -214px -163px;
+  width: 11px;
+  height: 21px; }
+
+.icon-chevron-left-white {
+  background-image: url(../../img/sprite.png);
+  background-position: -225px -163px;
+  width: 11px;
+  height: 21px; }
+
+.icon-chevron-right-blue {
+  background-image: url(../../img/sprite.png);
+  background-position: -236px -163px;
+  width: 11px;
+  height: 21px; }
+
+.icon-chevron-right-white {
+  background-image: url(../../img/sprite.png);
+  background-position: -307px -154px;
+  width: 11px;
+  height: 21px; }
+
+.icon-comment {
+  background-image: url(../../img/sprite.png);
+  background-position: -165px -112px;
+  width: 41px;
+  height: 32px; }
+
+.icon-email {
+  background-image: url(../../img/sprite.png);
+  background-position: -279px -210px;
+  width: 25px;
+  height: 19px; }
+
+.icon-fb-color {
+  background-image: url(../../img/sprite.png);
+  background-position: -279px -78px;
+  width: 39px;
+  height: 39px; }
+
+.icon-fb-gray {
+  background-image: url(../../img/sprite.png);
+  background-position: -279px -39px;
+  width: 39px;
+  height: 39px; }
+
+.icon-i-flag-hor {
+  background-image: url(../../img/sprite.png);
+  background-position: -214px -86px;
+  width: 61px;
+  height: 77px; }
+
+.icon-insta-color {
+  background-image: url(../../img/sprite.png);
+  background-position: -200px -193px;
+  width: 40px;
+  height: 39px; }
+
+.icon-insta-gray {
+  background-image: url(../../img/sprite.png);
+  background-position: -279px 0px;
+  width: 40px;
+  height: 39px; }
+
+.icon-phone-bg {
+  background-image: url(../../img/sprite.png);
+  background-position: -279px -154px;
+  width: 28px;
+  height: 28px; }
+
+.icon-phone {
+  background-image: url(../../img/sprite.png);
+  background-position: -279px -117px;
+  width: 37px;
+  height: 37px; }
+
+.icon-placeholder {
+  background-image: url(../../img/sprite.png);
+  background-position: -279px -182px;
+  width: 20px;
+  height: 28px; }
+
+.icon-quote {
+  background-image: url(../../img/sprite.png);
+  background-position: -118px -112px;
+  width: 47px;
+  height: 37px; }
+
+.icon-rotate360 {
+  background-image: url(../../img/sprite.png);
+  background-position: 0px 0px;
+  width: 214px;
+  height: 112px; }
+
+.icon-star {
+  background-image: url(../../img/sprite.png);
+  background-position: -279px -243px;
+  width: 17px;
+  height: 16px; }
+
+.icon-vk-color {
+  background-image: url(../../img/sprite.png);
+  background-position: -160px -193px;
+  width: 40px;
+  height: 39px; }
+
+.icon-vk-gray {
+  background-image: url(../../img/sprite.png);
+  background-position: -120px -193px;
+  width: 40px;
+  height: 39px; }
+
+.icon-youtube-color {
+  background-image: url(../../img/sprite.png);
+  background-position: -80px -193px;
+  width: 40px;
+  height: 40px; }
+
+.icon-youtube-gray {
+  background-image: url(../../img/sprite.png);
+  background-position: -40px -193px;
+  width: 40px;
+  height: 40px; }
