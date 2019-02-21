@@ -567,6 +567,9 @@ input, .btn, .slick-slide, textarea {
 u {
   text-decoration: none; }
 
+.main-wrap {
+  overflow-x: hidden; }
+
 .panel {
   position: absolute;
   top: 55px;
@@ -1694,6 +1697,9 @@ u {
 .main-photo__img {
   width: 940px;
   margin-top: -80px; }
+  .main-photo__img > div {
+    width: auto !important;
+    height: auto !important; }
   .main-photo__img img {
     margin-left: -70px; }
   .main-photo__img:after {
